@@ -1,6 +1,11 @@
 # The Justice League
+
 ## Leader
-**Superman**
+
+- Superman
+
 ## Team
+
 - Wonder Woman
 - Green Lantern
+- Aquaman
