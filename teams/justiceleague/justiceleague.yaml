@@ -15,11 +15,3 @@ repos:
         tags:
           - source: latest
             target: latest
-  - name: internal/windows-samples
-    readme: README.windows-samples.md
-    description: Samples based on windows containers.
-    syndications: 
-      - type: redhat
-        repository: Microsoft/windows-samples
-        imageUpdate: false
-        contentUpdate: true
