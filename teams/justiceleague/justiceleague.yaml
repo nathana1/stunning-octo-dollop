@@ -6,7 +6,7 @@ dependencyNotification: nathana
 repos:
   - name: public/linux-samples
     readme: README.md 
-    description: This is the Justice League.
+    description: This is the Justice League.  We have Aquaman.
     syndications: 
       - type: dockerhub
         repository: nathana/superrepo5
