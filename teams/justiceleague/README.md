@@ -9,3 +9,4 @@
 - Wonder Woman
 - Green Lantern
 - Aquaman
+- The Flash
