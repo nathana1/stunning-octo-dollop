@@ -1,10 +1,10 @@
 subscriptionId: 910d9cee-44b6-4242-ab71-ebe693ed8cc6
-resourceGroup: mcr-test-global-rg
-registry: mcrflowjulioct
+resourceGroup: mcrflownathana
+registry: mcrflownathana
 onboardingNotification: nathana
 dependencyNotification: nathana
 repos:
-  - name: public/linux-samples
+  - name: public/powershell
     readme: README.md 
     description: This is the Justice League.  We have Aquaman.
     syndications: 
