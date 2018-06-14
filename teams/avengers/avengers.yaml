@@ -1,0 +1,17 @@
+subscriptionId: 910d9cee-44b6-4242-ab71-ebe693ed8cc6
+resourceGroup: mcrflownathana
+registry: mcrflownathana
+onboardingNotification: nathana
+dependencyNotification: nathana
+repos:
+  - name: public/powershell
+    readme: README.md 
+    description: This is the Avengers.  We have Hawkeye.
+    syndications: 
+      - type: dockerhub
+        repository: nathana/avengers
+        imageUpdate: true
+        contentUpdate: true
+        tags:
+          - source: latest
+            target: latest
