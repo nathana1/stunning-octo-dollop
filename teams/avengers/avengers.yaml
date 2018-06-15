@@ -9,7 +9,7 @@ repos:
     description: This is the Avengers.  We have Hawkeye.
     syndications: 
       - type: dockerhub
-        repository: nathana/avengers
+        repository: nathana/avengers-age-of-ultron
         imageUpdate: true
         contentUpdate: true
         tags:
