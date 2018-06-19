@@ -3,12 +3,3 @@ resourceGroup: mcrflownathana
 registry: mcrflownathanaavengers
 onboardingNotification: nathana
 dependencyNotification: nathana
-repos:
-  - name: public/powershell
-    readme: README.md 
-    description: This is the Avengers.  We have Hawkeye.
-    syndications: 
-      - type: dockerhub
-        repository: nathana/avengers-age-of-ultron
-        imageUpdate: true
-        contentUpdate: true
