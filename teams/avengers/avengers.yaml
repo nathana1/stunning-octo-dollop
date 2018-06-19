@@ -12,6 +12,3 @@ repos:
         repository: nathana/avengers-age-of-ultron
         imageUpdate: true
         contentUpdate: true
-        tags:
-          - source: latest
-            target: latest
