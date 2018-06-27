@@ -10,5 +10,5 @@ repos:
     syndications: 
       - type: dockerhub
         repository: nathana/avengers-age-of-ultron
-        imageUpdate: true
+        imageUpdate: false
         contentUpdate: true
