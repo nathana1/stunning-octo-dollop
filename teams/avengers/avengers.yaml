@@ -4,11 +4,11 @@ registry: mcrflownathanaavengers
 onboardingNotification: nathana
 dependencyNotification: nathana
 repos:
-  - name: public/powershell
+  - name: public/burrow
     readme: README.md 
     description: This is the Avengers.  We have Hawkeye. And a hulk.
     syndications: 
       - type: dockerhub
-        repository: nathana/avengers-age-of-ultron
+        repository: nathana/avengers-infinity-war
         imageUpdate: true
         contentUpdate: true
