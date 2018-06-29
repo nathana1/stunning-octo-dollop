@@ -6,7 +6,7 @@ dependencyNotification: nathana
 repos:
   - name: public/powershell
     readme: README.md 
-    description: Fightin' crime.
+    description: Fightin' crime.  And taking names.
     syndications: 
       - type: dockerhub
         repository: nathana/defenders
