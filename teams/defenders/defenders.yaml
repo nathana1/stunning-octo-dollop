@@ -1,6 +1,6 @@
 subscriptionId: 910d9cee-44b6-4242-ab71-ebe693ed8cc6
 resourceGroup: mcrflownathana
-registry: mcrflownathana
+registry: mcrflownathanadefenders
 onboardingNotification: nathana
 dependencyNotification: nathana
 repos:
