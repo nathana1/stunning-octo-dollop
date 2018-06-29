@@ -4,7 +4,7 @@ registry: mcrflownathana
 onboardingNotification: nathana
 dependencyNotification: nathana
 repos:
-  - name: public/powershell
+  - name: public/brigade-controller
     readme: README.md 
     description: Fightin' crime.  And taking names.
     syndications: 
