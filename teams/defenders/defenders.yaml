@@ -5,7 +5,7 @@ onboardingNotification: nathana
 dependencyNotification: nathana
 repos:
   - name: public/brigade-controller
-    readme: README.md 
+    readme: README-defenders.md 
     description: Fightin' crime.  And taking names.
     syndications: 
       - type: dockerhub
