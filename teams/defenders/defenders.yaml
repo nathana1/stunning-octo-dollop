@@ -6,7 +6,7 @@ dependencyNotification: nathana
 repos:
   - name: public/brigade-controller
     readme: README-defenders.md 
-    description: Fightin' crime.  And taking names.
+    description: Fightin' crime.  And taking names.  And chewing bubble gum.
     syndications: 
       - type: dockerhub
         repository: nathana/defenders
