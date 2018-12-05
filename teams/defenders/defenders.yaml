@@ -4,7 +4,7 @@ registry: mcrflownathanadefenders
 onboardingNotification: nathana
 dependencyNotification: nathana
 repos:
-  - name: public/azureiotedge-hub
+  - name: public/powershell
     readme: README-defenders.md 
     description: Fightin' crime.  And taking names.  And chewing bubble gum.
     syndications: 
@@ -13,5 +13,5 @@ repos:
         imageUpdate: true
         contentUpdate: true
         tags:
-          - source: 1.0
+          - source: latest
             target: latest
