@@ -7,6 +7,7 @@
 ## Team
 
 - Wonder Woman
+- Batman
 - Green Lantern
 - Aquaman
 - The Flash
